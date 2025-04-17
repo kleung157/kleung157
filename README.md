@@ -5,7 +5,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 - 🔭 I’m currently working on Data Science projects.
 - 🌱 I’m currently learning Neural Networks and PyTorch.
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,matlab,py,sqlite,sklearn,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,anaconda,matlab,sklearn,visualstudio,vscode)](https://skillicons.dev)
 
 
 <!--
