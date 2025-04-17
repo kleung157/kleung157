@@ -6,7 +6,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 - 🌱 I’m currently learning Neural Networks and PyTorch.
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,anaconda,matlab,sklearn,visualstudio,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,anaconda,vscode)](https://skillicons.dev) 
 
 ### Data Projects:
 - [**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics) <p align='right'>
