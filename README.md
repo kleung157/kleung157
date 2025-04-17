@@ -9,23 +9,28 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 [![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,anaconda,matlab,sklearn,visualstudio,vscode)](https://skillicons.dev) 
 
 ### Data Projects:
-- [**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics) <p align='right'>![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- [**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics) <p align='right'>
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 </p>
 
-- [**Google Fiber Customer Service:** How Can Customer Service Reduce Call Volumes?](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence) <p align='right'>![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- [**Google Fiber Customer Service:** How Can Customer Service Reduce Call Volumes?](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence) <p align='right'>
+![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 </p>
 
 ### Personal Projects:
-- [**Racquet Sports:** A One Year Journey Into The Pickleball Experience.](https://github.com/kleung157/Racquet_Sports_Personal_Project) <p align='right'>![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- [**Racquet Sports:** A One Year Journey Into The Pickleball Experience.](https://github.com/kleung157/Racquet_Sports_Personal_Project) <p align='right'>
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </p>
 
-- [**Strength Training:** How to Improve Fitness Outcomes.](https://github.com/kleung157/Strength_Training_Personal_Project) <p align='right'>![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- [**Strength Training:** How to Improve Fitness Outcomes.](https://github.com/kleung157/Strength_Training_Personal_Project) <p align='right'>
+![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
