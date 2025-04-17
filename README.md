@@ -19,7 +19,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 #### Certifications:
 - [**Google Advanced Data Analytics**](https://www.credly.com/badges/1d074e5b-c473-41a5-99fa-72d0128028c3/linked_in_profile)
 - [**Google Business Intelligence**](https://www.credly.com/badges/3335a0a3-e241-4804-9889-31db47fd38fd/linked_in_profile)
-- [**Google Data Aanlytics**](https://www.credly.com/badges/d6aba73a-b9d1-415a-a34e-cb9e89e697ab/linked_in_profile)
+- [**Google Data Analytics**](https://www.credly.com/badges/d6aba73a-b9d1-415a-a34e-cb9e89e697ab/linked_in_profile)
 <!--
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
