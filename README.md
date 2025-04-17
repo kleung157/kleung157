@@ -2,7 +2,7 @@
 #### About Me:
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
-- 🔭 I’m currently working on Data Science projects.
+- 🔭 I’m currently working on predictive machine learning model projects.
 - 🌱 I’m currently learning Neural Networks and PyTorch.
 
 #### Skills:
