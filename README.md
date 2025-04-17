@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi There! 👋
+I'm Kevin, a data analyst and biomedical researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,matlab,py,sqlite,sklearn,visualstudio,vscode)](https://skillicons.dev)
+
 
 <!--
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
