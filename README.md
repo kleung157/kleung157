@@ -1,5 +1,5 @@
-## Hi There! 👋
-I'm Kevin, a data analyst and biomedical researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
+## Hey There! I'm Kevin. 👋
+I am passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,matlab,py,sqlite,sklearn,visualstudio,vscode)](https://skillicons.dev)
 
