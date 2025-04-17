@@ -5,16 +5,27 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 - 🔭 I’m currently working on predictive machine learning model projects.
 - 🌱 I’m currently learning Neural Networks and PyTorch.
 
-#### Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,anaconda,matlab,sklearn,visualstudio,vscode)](https://skillicons.dev)
+#### Tools:
+[![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,anaconda,matlab,sklearn,visualstudio,vscode)](https://skillicons.dev) 
 
 #### Data Projects:
-- [**R Studio + Tableau:** - Bellabeat Smart Devices](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics)
-- [**SQL + Tableau:** - Google Fiber Customer Service](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence)
+- [**Bellabeat Smart Devices**](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics) - ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+- [**Google Fiber Customer Service**](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence) - ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 #### Personal Projects:
-- [**Tableau + Excel:** - Racquet Sports](https://github.com/kleung157/Pickleball_Experience_Personal_Project)
-- [**SQL + PowerBi + Excel:** - Strength Training](https://github.com/kleung157/Strength_Training_2023_Personal_Project)
+- [**Racquet Sports**](https://github.com/kleung157/Pickleball_Experience_Personal_Project) - ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+- [**Strength Training**](https://github.com/kleung157/Strength_Training_2023_Personal_Project) - ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
 #### Certifications:
 - [**Google Advanced Data Analytics**](https://www.credly.com/badges/1d074e5b-c473-41a5-99fa-72d0128028c3/linked_in_profile)
