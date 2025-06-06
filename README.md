@@ -3,7 +3,7 @@
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
 - 🔭 I’m currently working on predictive machine learning model projects.
-- 🌱 I’m currently learning Neural Networks and PyTorch.
+- 🌱 I’m currently learning more about TensorFlow and PyTorch.
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,postgres,anaconda,vscode)](https://skillicons.dev) 
@@ -48,9 +48,10 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 </p>
 
 ### Certifications:
-- [**Google Advanced Data Analytics**](https://www.credly.com/badges/1d074e5b-c473-41a5-99fa-72d0128028c3/linked_in_profile)
-- [**Google Business Intelligence**](https://www.credly.com/badges/3335a0a3-e241-4804-9889-31db47fd38fd/linked_in_profile)
-- [**Google Data Analytics**](https://www.credly.com/badges/d6aba73a-b9d1-415a-a34e-cb9e89e697ab/linked_in_profile)
+- [**DeepLearning.AI: Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/5YWKLUOGGI92)
+- [**Google: Advanced Data Analytics**](https://www.credly.com/badges/1d074e5b-c473-41a5-99fa-72d0128028c3/linked_in_profile)
+- [**Google: Business Intelligence**](https://www.credly.com/badges/3335a0a3-e241-4804-9889-31db47fd38fd/linked_in_profile)
+- [**Google: Data Analytics**](https://www.credly.com/badges/d6aba73a-b9d1-415a-a34e-cb9e89e697ab/linked_in_profile)
 <!--
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
