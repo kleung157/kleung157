@@ -1,12 +1,19 @@
 ## Hey There! I'm Kevin. 👋
+
+<br>
+
 ### About Me:
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
 - 🔭 I’m currently working on predictive machine learning model projects.
 - 🌱 I’m currently learning more about TensorFlow and PyTorch.
 
+<br>
+
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,postgres,anaconda,vscode)](https://skillicons.dev) 
+
+<br>
 
 ### Machine Learning and Data Analysis Projects:
 - [**Salifort Motors Capstone Project:** Understanding Employee Attrition Through Machine Learning.](https://github.com/kleung157/Salifort_Motors_Capstone_Machine_Learning) <p align='right'>
@@ -19,7 +26,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 </p>
 
-#
+<br>
 
 - [**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics) <p align='right'>
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -29,13 +36,15 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 </p>
 
-#
+<br>
 
 - [**Google Fiber Customer Service:** How Can Customer Service Reduce Call Volumes?](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence) <p align='right'>
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 </p>
+
+<br>
 
 ### Personal Projects:
 - [**Racquet Sports:** A One Year Journey Into The Pickleball Experience.](https://github.com/kleung157/Racquet_Sports_Personal_Project) <p align='right'>
@@ -45,7 +54,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </p>
 
-#
+<br>
 
 - [**Strength Training:** How to Improve Fitness Outcomes.](https://github.com/kleung157/Strength_Training_Personal_Project) <p align='right'>
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -53,6 +62,8 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </p>
+
+<br>
 
 ### Certifications:
 - [**DeepLearning.AI: Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/5YWKLUOGGI92)
