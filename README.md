@@ -1,4 +1,4 @@
-## Hey There! I'm Kevin. 👋
+### Hey There! I'm Kevin. 👋
 ### About Me:
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
@@ -55,6 +55,8 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </p>
+
+#
 
 ### Certifications:
 - [**DeepLearning.AI: Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/5YWKLUOGGI92)
