@@ -20,9 +20,9 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 </p>
 
 - [**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics) <p align='right'>
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![image](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 </p>
