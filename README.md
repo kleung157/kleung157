@@ -5,6 +5,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 
 - 🔭 I’m currently working on predictive machine learning model projects.
 - 🌱 I’m currently learning more about TensorFlow and PyTorch.
+- ✨ I'm currently practicing Python and SQL coding daily.
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,postgres,anaconda,vscode)](https://skillicons.dev) 
