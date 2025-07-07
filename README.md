@@ -6,7 +6,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 - 🔭 I’m currently working on predictive machine learning model projects.
 - 📖 I'm currently enrolled in Genomic Data Science and PostgreSQL specialization courses.
 - 📓 I'm currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition.
-- 💻 I'm currently practicing Python and SQL coding daily.
+- 💻 I'm currently practicing R, Python and SQL coding daily.
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,postgres,anaconda,vscode)](https://skillicons.dev) 
