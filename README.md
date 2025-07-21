@@ -4,7 +4,7 @@
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
 - 🔭 I’m currently working on predictive machine learning model projects.
-- 📖 I'm currently enrolled in Genomic Data Science and PostgreSQL specialization courses.
+- 📖 I'm currently enrolled in Genomic Data Science and SQL Basics for Data Science specialization courses.
 - 📓 I'm currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition.
 - 💻 I'm currently practicing R, Python and SQL coding daily.
 
@@ -57,11 +57,6 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </p>
 
-### Certifications:
-- [**DeepLearning.AI: Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/5YWKLUOGGI92)
-- [**Google: Advanced Data Analytics**](https://www.credly.com/badges/1d074e5b-c473-41a5-99fa-72d0128028c3/linked_in_profile)
-- [**Google: Business Intelligence**](https://www.credly.com/badges/3335a0a3-e241-4804-9889-31db47fd38fd/linked_in_profile)
-- [**Google: Data Analytics**](https://www.credly.com/badges/d6aba73a-b9d1-415a-a34e-cb9e89e697ab/linked_in_profile)
 <!--
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
