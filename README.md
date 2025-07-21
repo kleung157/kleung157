@@ -57,6 +57,13 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </p>
 
+### Certifications:
+- [**University of Michigan:** PostgreSQL for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/4RI8L4BLUIOE)
+- [**IBM:** SQL A Practical Introduction for Querying Databases](https://www.coursera.org/account/accomplishments/verify/V9F51L32S2MX)
+- [**DeepLearning.AI:** Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5YWKLUOGGI92)
+- [**Google:** Advanced Data Analytics](https://www.credly.com/badges/1d074e5b-c473-41a5-99fa-72d0128028c3/linked_in_profile)
+- [**Google:** Business Intelligence](https://www.credly.com/badges/3335a0a3-e241-4804-9889-31db47fd38fd/linked_in_profile)
+- [**Google:** Data Analytics](https://www.credly.com/badges/d6aba73a-b9d1-415a-a34e-cb9e89e697ab/linked_in_profile)
 <!--
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
