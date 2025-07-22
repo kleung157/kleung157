@@ -9,7 +9,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 - 💻 I'm currently practicing R, Python and SQL coding daily.
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,r,sqlite,postgres,anaconda,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,sqlite,anaconda,vscode)](https://skillicons.dev) 
 
 ### Machine Learning and Data Analysis Projects:
 - [**Salifort Motors Capstone Project:** Understanding Employee Attrition Through Machine Learning.](https://github.com/kleung157/Salifort_Motors_Capstone_Machine_Learning) <p align='right'>
