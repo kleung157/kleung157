@@ -3,10 +3,10 @@
 ### About Me:
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
-- 🏫 I'm currently enrolled in [**JHU: Genomic Data Science**](https://www.coursera.org/specializations/genomic-data-science) and [**UCDavis: SQL Basics for Data Science**](https://www.coursera.org/learn/sql-for-data-science) courses.
-- 🖋️ I'm currently studying [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/).
-- 📖 I'm currently reading [**The Gene: An Intimate History**](https://siddharthamukherjee.com/the-gene-an-intimate-history/).
-- 💻 I'm currently practicing [**R, Python and SQL**](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
+- 🏫 I'm currently enrolled in "JHU: Genomic Data Science" and "UCDavis: SQL Basics for Data Science".
+- 🖋️ I'm currently studying "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition".
+- 📖 I'm currently reading "The Gene: An Intimate History".
+- 💻 I'm currently practicing [R, Python and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,sqlite,anaconda,vscode)](https://skillicons.dev) 
