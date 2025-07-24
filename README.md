@@ -12,7 +12,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,sqlite,anaconda,vscode)](https://skillicons.dev) 
 
 ### Machine Learning and Data Analysis Projects:
-[**Salifort Motors Capstone Project:** Understanding Employee Attrition Through Machine Learning.](https://github.com/kleung157/Salifort_Motors_Capstone_Machine_Learning)
+- [**Salifort Motors Capstone Project:** Understanding Employee Attrition Through Machine Learning.](https://github.com/kleung157/Salifort_Motors_Capstone_Machine_Learning)
   
 *Conducted comprehensive exploratory data analysis on 14999 employee survey responses using Python (NumPy, Pandas, Seaborn, Matplotlib, SciPy, Statsmodels, Scikit-learn) to identify key drivers of employee attrition. Employed feature engineering techniques to enhance model accuracy in predicting turnover. Implemented and evaluated logistic regression, decision tree, random forest, and XGBoost models, achieving strong performance across multiple metrics (accuracy, precision, recall, F1, AUC) and presenting actionable insights on the primary factors contributing to employee departures through impactful Tableau dashboards and a concise executive summary that informed potential retention strategies.* <p align='right'>
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -26,7 +26,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 
 <br>
 
-[**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics)
+- [**Bellabeat Smart Devices:** How Can A Wellness Technology Company Play it Smart?](https://github.com/kleung157/Bellabeat_Case_Study_Data_Analytics)
 
 *Developed an interactive Tableau dashboard and presentation that delivered insights on smart device user behavior, directly influencing marketing strategies, product design, and mobile application updates. Processed and prepared data from a 29-table database using R Studio, leveraging functions like read_csv(), skim_without_charts(), colnames(), head(), clean_names(), and separate() to efficiently clean, transform, and prepare the dataset for analysis. Identified key relationships and trends in user behavior by performing an in-depth analysis on R Studio that included data aggregation with summary(), statistical functions like cor(x,y), and visualization with ggplot().* <p align='right'>
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -38,7 +38,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 
 <br>
 
-[**Google Fiber Customer Service:** How Can Customer Service Reduce Call Volumes?](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence)
+- [**Google Fiber Customer Service:** How Can Customer Service Reduce Call Volumes?](https://github.com/kleung157/Google_Fiber_Case_Study_Business_Intelligence)
 
 *Created a dynamic Tableau dashboard that visualized repeat caller trends and provided findings based on 1352 logged calls, empowering stakeholders to identify opportunities for call volume reduction. Utilized SQL in Google BigQuery to UNION multiple datasets into a single, unified source for data preparation. Defined project scope, objectives, and success metrics, documenting roles and responsibilities to ensure project clarity and alignment.* <p align='right'>
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -47,7 +47,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 </p>
 
 ### Personal Projects:
-[**Racquet Sports:** A One Year Journey Into The Pickleball Experience.](https://github.com/kleung157/Racquet_Sports_Personal_Project)
+- [**Racquet Sports:** A One Year Journey Into The Pickleball Experience.](https://github.com/kleung157/Racquet_Sports_Personal_Project)
 
 *Tracked and analyzed over 400 pickleball sessions over a year to identify performance trends and inform personal training strategies. Structured and managed daily play logs in an SQLite database, ensuring data integrity for subsequent analysis. Utilized SQL to extract key insights regarding optimal session length, the benefits of varied court types, and the impact of play frequency on skill progression. Visualized the entire "Pickleball Experience" through an interactive Tableau dashboard, providing actionable recommendations for enhanced athletic development.* <p align='right'>
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -58,7 +58,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 
 <br>
 
-[**Strength Training:** How to Improve Fitness Outcomes.](https://github.com/kleung157/Strength_Training_Personal_Project)
+- [**Strength Training:** How to Improve Fitness Outcomes.](https://github.com/kleung157/Strength_Training_Personal_Project)
 
 *Designed a static Power BI dashboard that provided revelations into past exercise performance, enabling an enthusiast to create more effective and optimized workout routines. Manually entered 600 daily exercise logs into a SQL database, creating unique identifiers and implementing sorting and filtering for data management. Conducted in-depth analysis of exercise data using SQL, leveraging aggregate functions such as COUNT, AVG, MAX, MIN, and SUM to identify patterns in workout performance and inform dashboard visualizations.* <p align='right'>
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
