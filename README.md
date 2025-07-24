@@ -3,10 +3,10 @@
 ### About Me:
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
-- 🔭 I’m currently working on predictive machine learning model projects.
-- 📖 I'm currently enrolled in JHU: Genomic Data Science and UCDavis: SQL Basics for Data Science courses.
-- 📓 I'm currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition.
-- 💻 I'm currently practicing R, Python and SQL coding daily.
+- 📖 I'm currently enrolled in [JHU: Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science) and [UCDavis: SQL Basics for Data Science](https://www.coursera.org/learn/sql-for-data-science) courses.
+- 📓 I'm currently studying [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/).
+- 📚 I'm currently reading [The Gene: An Intimate History](https://siddharthamukherjee.com/the-gene-an-intimate-history/).
+- 💻 I'm currently practicing [R, Python and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,sqlite,anaconda,vscode)](https://skillicons.dev) 
@@ -68,7 +68,12 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 ### Education:
 - **University of South Florida:** M.S. Medical Sciences (Anatomy Concentration)
 - **University of Central Florida:** M.S. Nanotechnology, B.S. Molecular and Microbiology, Health Sciences
+
+
 <!--
+Recycleable bio:
+- 🔭 I’m currently working on predictive machine learning model projects.
+
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
