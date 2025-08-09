@@ -3,7 +3,7 @@
 ### About Me:
 I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
-- 🏫 I'm currently enrolled in "JHU: Genomic Data Science" and "UCDavis: SQL Basics for Data Science" courses.
+- 🏫 I'm currently enrolled in "JHU: Genomic Data Science".
 - 🖋️ I'm currently studying "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition" by Aurélien Géron.
 - 📖 I'm currently reading "The Gene: An Intimate History" by Siddartha Mukherjee.
 - 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
