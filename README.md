@@ -69,6 +69,8 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 </p>
 
 ### Certifications:
+- [**University of California, Davis:** SQL Problem Solving](https://www.coursera.org/account/accomplishments/records/7TKOE5PRJWVV)
+- [**University of California, Davis:** SQL For Data Science](https://www.coursera.org/account/accomplishments/records/LLZJPESBVPM8)
 - [**University of Michigan:** PostgreSQL for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/4RI8L4BLUIOE)
 - [**IBM:** SQL A Practical Introduction for Querying Databases](https://www.coursera.org/account/accomplishments/verify/V9F51L32S2MX)
 - [**DeepLearning.AI:** Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5YWKLUOGGI92)
