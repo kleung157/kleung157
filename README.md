@@ -79,7 +79,7 @@ I am a data analyst and researcher passionate about utilizing data to enhance pa
 
 ### Education:
 - **University of South Florida:** M.S. Medical Sciences (Anatomy Concentration)
-- **University of Central Florida:** M.S. Nanotechnology, B.S. Molecular and Microbiology, Health Sciences
+- **University of Central Florida:** M.S. Nanotechnology, B.S. Molecular and Microbiology
 
 
 <!--
