@@ -1,7 +1,7 @@
 ## Hey There! I'm Kevin. 👋
 
 ### About Me:
-I am a data analyst and researcher passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
+I am a data analyst with biomedical informatics experience passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
 - 🖋️ I'm currently studying "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition" by Aurélien Géron.
 - 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
