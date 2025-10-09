@@ -3,7 +3,7 @@
 ### About Me:
 I am a data analyst with a biomedical informatics background, passionate about utilizing data to enhance patient well-being and contribute to healthcare innovation.
 
-- 🏫 I'm currently enrolled in "Macquarie University: Excel Skills for Business" and "University of Michigan: C Programming for Everybody".
+- 🏫 I'm currently enrolled in "University of Michigan: C Programming for Everybody".
 - 🖋️ I'm currently studying "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition" by Aurélien Géron.
 - 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
 
@@ -68,6 +68,7 @@ I am a data analyst with a biomedical informatics background, passionate about u
 </p>
 
 ### Certifications:
+- [**Macquarie University:** Excel Skills for Business Specialization](https://coursera.org/share/2bb9e09f8c95bfac4bb357889c44ea1f)
 - [**Johns Hopkins University:** Genomic Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/OGXVAO3CX53Q)
 - [**University of California, Davis:** SQL Problem Solving](https://www.coursera.org/account/accomplishments/records/7TKOE5PRJWVV)
 - [**University of California, Davis:** SQL For Data Science](https://www.coursera.org/account/accomplishments/records/LLZJPESBVPM8)
