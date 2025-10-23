@@ -68,7 +68,7 @@ I am a data analyst with a biomedical informatics background, passionate about u
 </p>
 
 ### Certifications:
-- [**Macquarie University:** Statistics and Data Analysis with Excel](https://www.coursera.org/account/accomplishments/specialization/LHQFUVIEVOL6)
+- [**Macquarie University:** Statistics and Data Analysis with Excel Specialization](https://www.coursera.org/account/accomplishments/specialization/LHQFUVIEVOL6)
 - [**Macquarie University:** Excel Skills for Business Specialization](https://coursera.org/share/2bb9e09f8c95bfac4bb357889c44ea1f)
 - [**Johns Hopkins University:** Genomic Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/OGXVAO3CX53Q)
 - [**University of California, Davis:** SQL Problem Solving](https://www.coursera.org/account/accomplishments/records/7TKOE5PRJWVV)
