@@ -4,7 +4,7 @@
 I am a data analyst with a biomedical informatics background, passionate about utilizing data to improve lives and contribute to innovation.
 
 - 🏫 I'm currently enrolled in "Macquarie University: Excel Power Tools for Data Analysis" and "University of Michigan: C Programming for Everybody".
-- 🖋️ I'm currently studying "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition" by Aurélien Géron.
+- 🖋️ I'm currently studying "An Introduction to Statistical Learning with Applications in Python" and "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"
 - 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
 
 ### Tools:
