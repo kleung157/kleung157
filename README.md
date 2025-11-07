@@ -11,7 +11,7 @@ I am a data analyst with a biomedical informatics background, passionate about u
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,sqlite,anaconda,vscode)](https://skillicons.dev) 
 
 ### Machine Learning Projects:
-[**Salifort Motors Capstone Project:** Understanding Employee Attrition Through Machine Learning.](https://github.com/kleung157/Salifort_Motors_Capstone_Machine_Learning)
+[**Salifort Motors:** Understanding Employee Attrition Through Machine Learning.](https://github.com/kleung157/Salifort_Motors_Capstone_Machine_Learning)
   
 *Conducted comprehensive exploratory data analysis on 15000 employee survey responses using Python (NumPy, Pandas, Seaborn, Matplotlib, SciPy, Statsmodels, Scikit-learn) to identify key drivers of employee attrition. Employed feature engineering techniques to enhance model accuracy in predicting turnover. Implemented and evaluated logistic regression, decision tree, random forest, and XGBoost models, achieving strong performance across multiple metrics (accuracy, precision, recall, F1, AUC) and presenting actionable insights on the primary factors contributing to employee departures through impactful Tableau dashboards and a concise executive summary that informed potential retention strategies.* <p align='right'>
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
