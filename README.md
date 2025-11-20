@@ -1,7 +1,7 @@
 ## Hey There! I'm Kevin. 👋
 
 ### About Me:
-I am a data analyst with a biomedical informatics background, passionate about utilizing data to improve lives and contribute to innovation.
+I am a data analyst with a biomedical sciences background, passionate about utilizing data to improve lives and contribute to innovation.
 
 - 🏫 I'm currently enrolled in "Microsoft Data Visualization Professional Certificate" and "University of Michigan: C Programming for Everybody".
 - 🖋️ I'm currently studying "An Introduction to Statistical Learning with Applications in Python" and "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"
