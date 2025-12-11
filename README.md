@@ -4,7 +4,6 @@
 I am a data analyst with a biomedical sciences background, passionate about utilizing data to improve lives and contribute to innovation.
 
 - 🏫 I'm currently enrolled in "Microsoft Data Visualization Professional Certificate" and "University of Michigan: C Programming for Everybody".
-- 🖋️ I'm currently studying "An Introduction to Statistical Learning with Applications in Python" and "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"
 - 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
 
 ### Tools:
@@ -88,6 +87,7 @@ I am a data analyst with a biomedical sciences background, passionate about util
 
 <!--
 Recycleable bio:
+- - 🖋️ I'm currently studying "An Introduction to Statistical Learning with Applications in Python" and "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"
 - 🔭 I’m currently working on predictive machine learning model projects.
 **kleung157/kleung157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
