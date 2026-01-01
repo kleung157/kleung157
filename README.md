@@ -4,7 +4,7 @@
 I am a data analyst with a biomedical sciences background, passionate about utilizing data to improve lives and contribute to innovation.
 
 - 🏫 I'm currently enrolled in "Microsoft Data Visualization Professional Certificate" and "University of Michigan: C Programming for Everybody".
-- 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice/2025) coding daily.
+- 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice) coding daily.
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,sqlite,anaconda,vscode)](https://skillicons.dev) 
