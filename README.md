@@ -3,7 +3,7 @@
 ### About Me:
 I am a data analyst with a biomedical sciences background, passionate about utilizing data to improve lives and contribute to innovation.
 
-- 🏫 I'm currently enrolled in "Microsoft Data Visualization Professional Certificate" and "University of Michigan: C Programming for Everybody".
+- 🏫 I'm currently enrolled in "Microsoft Power BI Data Visualization Professional Certificate".
 - 💻 I'm currently practicing [R, Python, and SQL](https://github.com/kleung157/Daily_Practice/tree/main/practice) coding daily.
 
 ### Tools:
@@ -67,6 +67,7 @@ I am a data analyst with a biomedical sciences background, passionate about util
 </p>
 
 ### Certifications:
+- [**University of Michigan:** C Programming for Everybody](https://www.coursera.org/account/accomplishments/specialization/Z5JJNB8VFU30)
 - [**Macquarie University:** Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/verify/BKPWPUEELOCM)
 - [**Macquarie University:** Statistics and Data Analysis with Excel Specialization](https://www.coursera.org/account/accomplishments/specialization/LHQFUVIEVOL6)
 - [**Macquarie University:** Excel Skills for Business Specialization](https://coursera.org/share/2bb9e09f8c95bfac4bb357889c44ea1f)
