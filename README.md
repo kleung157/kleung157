@@ -67,6 +67,7 @@ I am a data analyst with a biomedical sciences background, passionate about util
 </p>
 
 ### Certifications:
+- [**Microsoft:** Power BI Data Visualization](https://www.coursera.org/account/accomplishments/specialization/SYH6KNRFKCPL)
 - [**University of Michigan:** C Programming for Everybody](https://www.coursera.org/account/accomplishments/specialization/Z5JJNB8VFU30)
 - [**Macquarie University:** Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/verify/BKPWPUEELOCM)
 - [**Macquarie University:** Statistics and Data Analysis with Excel Specialization](https://www.coursera.org/account/accomplishments/specialization/LHQFUVIEVOL6)
